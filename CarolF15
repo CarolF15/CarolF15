@@ -1,0 +1,8 @@
+echo "# CarolF15" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CarolF15/CarolF15.git
+git push -u origin main
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623977513339.png" width="48px" height="48px">
