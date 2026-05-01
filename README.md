@@ -2,7 +2,6 @@
 
 ![Octocat](octocat-1777645544004.png)
 
-## Sobre mim
 🎓 Estudante de Engenharia da Computação  
 💻 Tech Support Engineer em transição para desenvolvimento  
 📊 Experiência com dados, automação e atendimento ao cliente  
