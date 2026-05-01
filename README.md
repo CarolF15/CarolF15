@@ -6,3 +6,6 @@
 - 💻 Desenvolvedora apaixonada por código
 - 🌱 Sempre aprendendo tecnologias novas
 - 💬 Pergunte-me sobre desenvolvimento
+
+
+**Vamos conectar!** ⭐
