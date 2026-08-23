@@ -15,12 +15,13 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- SQL  
-- Excel Avançado (Macros, Power Query)  
-- Python
-- Java
-- Salesforce  
-- Lógica de Programação  
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) SQL  
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) Excel Avançado (Macros, Power Query) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
+![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-4B5563?style=for-the-badge&logo=codeforces&logoColor=white) Lógica de Programação  
+
 
 ![Octocat](octocat-1787420884554.png)
 **Vamos conectar!** ⭐
