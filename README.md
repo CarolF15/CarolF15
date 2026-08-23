@@ -1,7 +1,5 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 
-![Octocat](octocat-1777645544004.png)
-
 🎓 Estudante de Técnico de Desenvolvimento de Sistemas  
 💻 Tech Support Engineer em transição para desenvolvimento  
 📊 Experiência com dados, automação e atendimento ao cliente  
@@ -24,4 +22,5 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 - Salesforce  
 - Lógica de Programação  
 
+![Octocat](octocat-1787420884554.png)
 **Vamos conectar!** ⭐
