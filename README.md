@@ -22,6 +22,11 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  <br>
 ![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-4B5563?style=for-the-badge&logo=codeforces&logoColor=white) <br>
 
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-ferreira-santos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caroline.ferreira_santos@hotmail.com)
 
 ![Octocat](octocat-1787420884554.png)
-**Vamos conectar!** ⭐
+
