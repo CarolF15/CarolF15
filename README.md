@@ -17,11 +17,11 @@ Estou cursando Técnico em Desenvolvimento de Sistemas e atuo como Tech Support 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  <br>
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  <br>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  <br>
-![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-4B5563?style=for-the-badge&logo=codeforces&logoColor=white) <br>
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)<br>
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+![Lógica de Programação](https://img.shields.io/badge/LÓGICA_DE_PROGRAMAÇÃO-555555?style=for-the-badge&logo=code&logoColor=white)
 
 ---
 
